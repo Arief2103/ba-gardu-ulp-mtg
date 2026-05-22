@@ -7,7 +7,7 @@
  * mengandalkan bar navigasi atas & sinkronisasi multi-uji Firebase Firestore / Supabase cloud.
  */
 
-import React, { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect } from "react";
 import { 
   Printer, 
   RotateCcw, 
